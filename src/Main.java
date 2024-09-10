@@ -2,6 +2,10 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
 
+        // Michael Steeven Sanchez Fernandez
+        //Deposita,retira y verifica la información de las cuentas bancarias
+        //10/09/2024
+
         CuentaBancaria cuenta1 = new CuentaBancaria();
         cuenta1.setTitular("Juan Pérez");
         cuenta1.setNumeroCuenta("34576342354");
